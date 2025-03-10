@@ -1,3 +1,11 @@
+# Eclipse Metadata (ignore everything under .metadata except .settings)
+.metadata/*
+!.metadata/.settings/
+
+# Ignore all .settings except Maven settings
+.metadata/.plugins/*
+!.metadata/.settings/org.eclipse.m2e.core.prefs
+
 # Compiled class file
 *.class
 
@@ -19,6 +27,55 @@
 *.tar.gz
 *.rar
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+# virtual machine crash logs
 hs_err_pid*
 replay_pid*
+
+# Ignore .lock files
+*.lock
+
+# Ignore version files
+version.ini
+
+# Ignore segments files
+segments_*
+
+# Ignore write.lock files
+write.lock
+
+#Ignore location files
+.location
+
+# Ignore tree files
+*.tree
+
+*.xml
+
+*.lst
+
+*.txt
+
+*.dumpstream
+
+# Ignore history version files
+history.version
+
+# Ignore properties index files
+properties.index
+
+#Ignore properties version
+properties.version
+
+# Ignore workspaceState files
+workspaceState.ser
+
+#Ignore settings workspace
+workspace.setup
+
+#Maven wrapper
+maven-wrapper.properties
+
+#ecommerce.uml
+ecommerce.uml
+target/surefire-reports/TEST-br.ufjf.dcc.dcc025.dcc025_ecommerce.dominio.AlimentoTest.xml
+target/surefire-reports/TEST-br.ufjf.dcc.dcc025.dcc025_ecommerce.dominio.AlimentoTest.xml

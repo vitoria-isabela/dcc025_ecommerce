@@ -1,0 +1,778 @@
+[
+    {
+        "codigo": "IPHONE12",
+        "nome": "iPhone 12",
+        "preco": 6999.99,
+        "garantiaMeses": 12,
+        "marca": "Apple",
+        "especificacoesTecnicas": "64GB, iOS 14",
+        "type": "Eletrônico"
+    },
+    {
+        "codigo": "CALCAZARA01",
+        "nome": "Calça Zara",
+        "preco": 199.99,
+        "tamanho": "M",
+        "cor": "Azul",
+        "material": "Jeans",
+        "lote": "LOTE01",
+        "type": "Roupa"
+    },
+    {
+        "codigo": "TVLG4K01",
+        "nome": "TV LG 4K 55 Polegadas",
+        "preco": 2500.00,
+        "garantiaMeses": 12,
+        "marca": "LG",
+        "especificacoesTecnicas": "55 polegadas, 4K, HDR",
+        "type": "Eletrônico"
+    },
+    {
+        "codigo": "TENISNIKE01",
+        "nome": "Tênis Nike Air Max",
+        "preco": 450.00,
+        "tamanho": "40",
+        "cor": "Preto/Branco",
+        "material": "Couro Sintético",
+        "lote": "TN042024",
+        "type": "Roupa"
+    },
+    {
+        "codigo": "GELADEIRA01",
+        "nome": "Geladeira Consul Frost Free",
+        "preco": 1800.00,
+        "validade": "2024-12-31",
+        "fabricacao": "2023-12-01",
+        "lote": "GLD012024",
+        "type": "Alimento"
+    },
+    {
+        "codigo": "CAMISAPOLO01",
+        "nome": "Camisa Polo Ralph Lauren",
+        "preco": 150.00,
+        "tamanho": "G",
+        "cor": "Azul Marinho",
+        "material": "Algodão",
+        "lote": "CP052024",
+        "type": "Roupa"
+    },
+    {
+        "codigo": "FOGAOELECTROLUX01",
+        "nome": "Fogão Electrolux 5 Bocas",
+        "preco": 1200.00,
+        "garantiaMeses": 6,
+        "marca": "Electrolux",
+        "especificacoesTecnicas": "5 bocas, acendimento automático",
+        "type": "Eletrônico"
+    },
+    {
+        "codigo": "SHORTSJEANS01",
+        "nome": "Shorts Jeans Feminino",
+        "preco": 80.00,
+        "tamanho": "P",
+        "cor": "Azul Claro",
+        "material": "Jeans",
+        "lote": "SHJ062024",
+        "type": "Roupa"
+    },
+    {
+        "codigo": "ARROZBRASILEIRO01",
+        "nome": "Arroz Brasileiro Tipo 1",
+        "preco": 25.00,
+        "validade": "2025-06-30",
+        "fabricacao": "2024-06-01",
+        "lote": "ARB062024",
+        "type": "Alimento"
+    },
+    {
+        "codigo": "CALCABOMBE01",
+        "nome": "Calça Bombazine",
+        "preco": 70.00,
+        "tamanho": "M",
+        "cor": "Amarelo",
+        "material": "Bombazine",
+        "lote": "CALB072024",
+        "type": "Roupa"
+    },
+    {
+        "codigo": "CAFESOLUVEL01",
+        "nome": "Café Solúvel",
+        "preco": 6.50,
+        "validade": "2024-06-01",
+        "fabricacao": "2023-01-10",
+        "lote": "CFSL072024",
+        "type": "Alimento"
+    },
+    {
+        "codigo": "IPHONE1301",
+        "nome": "Iphone 13",
+        "preco": 1900.00,
+        "garantiaMeses": 5,
+        "marca": "Apple",
+        "especificacoesTecnicas": "256gb",
+        "type": "Eletrônico"
+    },
+    {
+        "codigo": "CALCAFLARE01",
+        "nome": "Calça Flare",
+        "preco": 100.00,
+        "tamanho": "G",
+        "cor": "Rosa",
+        "material": "linho",
+        "lote": "CALF082024",
+        "type": "Roupa"
+    },
+    {
+        "codigo": "FEIJAO01",
+        "nome": "Feijão",
+        "preco": 8.99,
+        "validade": "2024-04-01",
+        "fabricacao": "2024-03-01",
+        "lote": "FJ012024",
+        "type": "Alimento"
+    },
+    {
+        "codigo": "BLUSAALGODÃO01",
+        "nome": "Blusa de algodão",
+        "preco": 50.00,
+        "tamanho": "P",
+        "cor": "Verde",
+        "material": "Algodão",
+        "lote": "BLUSA092024",
+        "type": "Roupa"
+    },
+    {
+        "codigo": "SABAOPO01",
+        "nome": "Sabão em pó",
+        "preco": 10.00,
+        "validade": "2026-01-10",
+        "fabricacao": "2024-01-10",
+        "lote": "SP102024",
+        "type": "Alimento"
+    },
+    {
+        "codigo": "PCGAMER01",
+        "nome": "PC Gamer",
+        "preco": 2500.00,
+        "garantiaMeses": 5,
+        "marca": "Dell",
+        "especificacoesTecnicas": "RTX 3060",
+        "type": "Eletrônico"
+    },
+    {
+        "codigo": "CALCAMOM01",
+        "nome": "Calça Mom",
+        "preco": 90.00,
+        "tamanho": "G",
+        "cor": "Preto",
+        "material": "Jeans",
+        "lote": "CalMJ112024",
+        "type": "Roupa"
+    },
+    {
+        "codigo": "CREMEACNE01",
+        "nome": "Creme Anti Acne",
+        "preco": 10.00,
+        "validade": "2024-01-10",
+        "fabricacao": "2023-12-01",
+        "lote": "CACNE122024",
+        "type": "Alimento"
+    },
+    {
+        "codigo": "TECLADO01",
+        "nome": "Teclado",
+        "preco": 55.00,
+        "garantiaMeses": 3,
+        "marca": "RedDragon",
+        "especificacoesTecnicas": "Mecânico",
+        "type": "Eletrônico"
+    },
+    {
+        "codigo": "SAIAEVASÊ01",
+        "nome": "Saia Evasê",
+        "preco": 45.00,
+        "tamanho": "G",
+        "cor": "Vermelha",
+        "material": "Viscose",
+        "lote": "SEVASE132024",
+        "type": "Roupa"
+    },
+    {
+        "codigo": "DETERGENTE01",
+        "nome": "Detergente",
+        "preco": 1.80,
+        "validade": "2026-01-10",
+        "fabricacao": "2024-01-10",
+        "lote": "DETER142024",
+        "type": "Alimento"
+    },
+    {
+        "codigo": "MONITOR01",
+        "nome": "Monitor",
+        "preco": 900.00,
+        "garantiaMeses": 5,
+        "marca": "LG",
+        "especificacoesTecnicas": "Full HD",
+        "type": "Eletrônico"
+    },
+    {
+        "codigo": "VESTIDOLONGO01",
+        "nome": "Vestido Longo",
+        "preco": 80.00,
+        "tamanho": "M",
+        "cor": "Rosa",
+        "material": "Viscose",
+        "lote": "VESL152024",
+        "type": "Roupa"
+    },
+    {
+        "codigo": "LEITEMOLICO01",
+        "nome": "Leite Molico",
+        "preco": 3.70,
+        "validade": "2026-01-10",
+        "fabricacao": "2023-01-10",
+        "lote": "LMTCO162024",
+        "type": "Alimento"
+    },
+    {
+        "codigo": "MOUSE01",
+        "nome": "Mouse",
+        "preco": 30.00,
+        "garantiaMeses": 3,
+        "marca": "Logitech",
+        "especificacoesTecnicas": "Sem fio",
+        "type": "Eletrônico"
+    },
+    {
+        "codigo": "CAMISETA01",
+        "nome": "Camiseta",
+        "preco": 30.00,
+        "tamanho": "M",
+        "cor": "Branco",
+        "material": "Algodão",
+        "lote": "CAMESTA172024",
+        "type": "Roupa"
+    },
+    {
+        "codigo": "MACARRAO01",
+        "nome": "Macarrão",
+        "preco": 2.00,
+        "validade": "2026-01-10",
+        "fabricacao": "2023-01-10",
+        "lote": "MCRRAO182024",
+        "type": "Alimento"
+    },
+    {
+        "codigo": "HDEXTERNO01",
+        "nome": "HD Externo",
+        "preco": 400.00,
+        "garantiaMeses": 12,
+        "marca": "Seagate",
+        "especificacoesTecnicas": "2TB",
+        "type": "Eletrônico"
+    },
+    {
+        "codigo": "SAIABRETONHA01",
+        "nome": "Saia Bretonha",
+        "preco": 50.00,
+        "tamanho": "M",
+        "cor": "Azul",
+        "material": "Linho",
+        "lote": "SAIA192024",
+        "type": "Roupa"
+    },
+    {
+        "codigo": "BISCOITO01",
+        "nome": "Biscoito",
+        "preco": 1.50,
+        "validade": "2026-01-10",
+        "fabricacao": "2023-01-10",
+        "lote": "BSCOI2024",
+        "type": "Alimento"
+    },
+    {
+        "codigo": "FONEDEOUV01",
+        "nome": "Fone de Ouvido",
+        "preco": 100.00,
+        "garantiaMeses": 3,
+        "marca": "JBL",
+        "especificacoesTecnicas": "Bluetooth",
+        "type": "Eletrônico"
+    },
+    {
+        "codigo": "CALCASOCIAL01",
+        "nome": "Calça Social",
+        "preco": 80.00,
+        "tamanho": "M",
+        "cor": "Preto",
+        "material": "Viscose",
+        "lote": "CALCAS212024",
+        "type": "Roupa"
+    },
+    {
+        "codigo": "ARROZ01",
+        "nome": "Arroz",
+        "preco": 3.00,
+        "validade": "2026-01-10",
+        "fabricacao": "2023-01-10",
+        "lote": "ARROZ222024",
+        "type": "Alimento"
+    },
+    {
+        "codigo": "PLACADEVIDEO01",
+        "nome": "Placa de Vídeo",
+        "preco": 1200.00,
+        "garantiaMeses": 2,
+        "marca": "Nvidia",
+        "especificacoesTecnicas": "RTX 3060",
+        "type": "Eletrônico"
+    },
+    {
+        "codigo": "BERMUDA01",
+        "nome": "Bermuda",
+        "preco": 40.00,
+        "tamanho": "M",
+        "cor": "Azul",
+        "material": "Sarja",
+        "lote": "BERMUDA232024",
+        "type": "Roupa"
+    },
+    {
+        "codigo": "OLEO01",
+        "nome": "Óleo",
+        "preco": 5.00,
+        "validade": "2026-01-10",
+        "fabricacao": "2023-01-10",
+        "lote": "OLEO242024",
+        "type": "Alimento"
+    },
+    {
+        "codigo": "CAIXADESOM01",
+        "nome": "Caixa de Som",
+        "preco": 100.00,
+        "garantiaMeses": 6,
+        "marca": "JBL",
+        "especificacoesTecnicas": "Bluetooth",
+        "type": "Eletrônico"
+    },
+    {
+        "codigo": "BLUSA01",
+        "nome": "Blusa",
+        "preco": 30.00,
+        "tamanho": "M",
+        "cor": "Vermelho",
+        "material": "Algodão",
+        "lote": "BLUSA252024",
+        "type": "Roupa"
+    },
+    {
+        "codigo": "ACHOCOLATADO01",
+        "nome": "Achocolatado",
+        "preco": 4.00,
+        "validade": "2026-01-10",
+        "fabricacao": "2023-01-10",
+        "lote": "ACHCOL262024",
+        "type": "Alimento"
+    },
+    {
+        "codigo": "IMPRESSORA01",
+        "nome": "Impressora",
+        "preco": 300.00,
+        "garantiaMeses": 3,
+        "marca": "Epson",
+        "especificacoesTecnicas": "Multifuncional",
+        "type": "Eletrônico"
+    },
+    {
+        "codigo": "SAIALONGA01",
+        "nome": "Saia Longa",
+        "preco": 70.00,
+        "tamanho": "M",
+        "cor": "Preto",
+        "material": "Viscose",
+        "lote": "SAIALG272024",
+        "type": "Roupa"
+    },
+    {
+        "codigo": "SARDINHA01",
+        "nome": "Sardinha",
+        "preco": 3.50,
+        "validade": "2026-01-10",
+        "fabricacao": "2023-01-10",
+        "lote": "SRDINA282024",
+        "type": "Alimento"
+    },
+    {
+        "codigo": "VENTILADOR01",
+        "nome": "Ventilador",
+        "preco": 150.00,
+        "garantiaMeses": 12,
+        "marca": "Arno",
+        "especificacoesTecnicas": "3 velocidades",
+        "type": "Eletrônico"
+    },
+    {
+        "codigo": "VESTIDOCURTO01",
+        "nome": "Vestido Curto",
+        "preco": 90.00,
+        "tamanho": "M",
+        "cor": "Branco",
+        "material": "Algodão",
+        "lote": "VESTDC292024",
+        "type": "Roupa"
+    },
+    {
+        "codigo": "SABONETES01",
+        "nome": "Sabonetes",
+        "preco": 10.00,
+        "validade": "2026-01-10",
+        "fabricacao": "2023-01-10",
+        "lote": "SABONT302024",
+        "type": "Alimento"
+    },
+    {
+        "codigo": "COOKTOP01",
+        "nome": "Cooktop",
+        "preco": 800.00,
+        "garantiaMeses": 2,
+        "marca": "Fischer",
+        "especificacoesTecnicas": "4 bocas",
+        "type": "Eletrônico"
+    },
+    {
+        "codigo": "CALCAMALHA01",
+        "nome": "Calça Malha",
+        "preco": 60.00,
+        "tamanho": "M",
+        "cor": "Cinza",
+        "material": "Malha",
+        "lote": "CALMAL312024",
+        "type": "Roupa"
+    },
+    {
+        "codigo": "SUCODECAIXA01",
+        "nome": "Suco de Caixa",
+        "preco": 3.00,
+        "validade": "2026-01-10",
+        "fabricacao": "2023-01-10",
+        "lote": "SUCAIX322024",
+        "type": "Alimento"
+    },
+    {
+        "codigo": "MICROONDAS01",
+        "nome": "Microondas",
+        "preco": 500.00,
+        "garantiaMeses": 3,
+        "marca": "Philco",
+        "especificacoesTecnicas": "20 litros",
+        "type": "Eletrônico"
+    },
+    {
+        "codigo": "CONJUNTOINVERNO01",
+        "nome": "Conjunto de Inverno",
+        "preco": 150.00,
+        "tamanho": "M",
+        "cor": "Preto/Branco",
+        "material": "Lã",
+        "lote": "CONJUN332024",
+        "type": "Roupa"
+    },
+    {
+        "codigo": "ERVVILHA01",
+        "nome": "Ervilha",
+        "preco": 2.50,
+        "validade": "2026-01-10",
+        "fabricacao": "2023-01-10",
+        "lote": "ERVILHA342024",
+        "type": "Alimento"
+    },
+    {
+        "codigo": "ASPIRADOR01",
+        "nome": "Aspirador de Pó",
+        "preco": 200.00,
+        "garantiaMeses": 6,
+        "marca": "Electrolux",
+        "especificacoesTecnicas": "1200W",
+        "type": "Eletrônico"
+    },
+    {
+        "codigo": "CROPETVERAO01",
+        "nome": "Cropped de Verão",
+        "preco": 40.00,
+        "tamanho": "P",
+        "cor": "Colorido",
+        "material": "Viscose",
+        "lote": "CROPE352024",
+        "type": "Roupa"
+    },
+    {
+        "codigo": "EXTRATOM01",
+        "nome": "Extrato de Tomate",
+        "preco": 2.00,
+        "validade": "2026-01-10",
+        "fabricacao": "2023-01-10",
+        "lote": "TOMATE362024",
+        "type": "Alimento"
+    },
+    {
+        "codigo": "SANDUCHEIRA01",
+        "nome": "Sanduicheira",
+        "preco": 70.00,
+        "garantiaMeses": 12,
+        "marca": "Mondial",
+        "especificacoesTecnicas": "Antiaderente",
+        "type": "Eletrônico"
+    },
+    {
+        "codigo": "SAIALAPIS01",
+        "nome": "Saia Lápis",
+        "preco": 60.00,
+        "tamanho": "P",
+        "cor": "Preto",
+        "material": "Sarja",
+        "lote": "SAILAPI372024",
+        "type": "Roupa"
+    },
+    {
+        "codigo": "LEITECONDENSADO01",
+        "nome": "Leite Condensado",
+        "preco": 4.50,
+        "validade": "2026-01-10",
+        "fabricacao": "2023-01-10",
+        "lote": "LCOND382024",
+        "type": "Alimento"
+    },
+    {
+        "codigo": "MULTIMETRO01",
+        "nome": "Multímetro",
+        "preco": 80.00,
+        "garantiaMeses": 3,
+        "marca": "Hikari",
+        "especificacoesTecnicas": "Digital",
+        "type": "Eletrônico"
+    },
+    {
+        "codigo": "CAMISARENDA01",
+        "nome": "Camisa de Renda",
+        "preco": 65.00,
+        "tamanho": "G",
+        "cor": "Branco",
+        "material": "Renda",
+        "lote": "CAMREN392024",
+        "type": "Roupa"
+    },
+    {
+        "codigo": "GELEIADEMOR01",
+        "nome": "Geléia de Morango",
+        "preco": 6.00,
+        "validade": "2026-01-10",
+        "fabricacao": "2023-01-10",
+        "lote": "GELMORA402024",
+        "type": "Alimento"
+    },
+    {
+        "codigo": "FERROPASSAR01",
+        "nome": "Ferro de Passar",
+        "preco": 120.00,
+        "garantiaMeses": 6,
+        "marca": "Black&Decker",
+        "especificacoesTecnicas": "A vapor",
+        "type": "Eletrônico"
+    },
+    {
+        "codigo": "CALÇAALFAIAT01",
+        "nome": "Calça de Alfaiataria",
+        "preco": 90.00,
+        "tamanho": "M",
+        "cor": "Cinza",
+        "material": "Algodão",
+        "lote": "CALALFA412024",
+        "type": "Roupa"
+    },
+    {
+        "codigo": "SABONETELIQ01",
+        "nome": "Sabonete Líquido",
+        "preco": 7.00,
+        "validade": "2026-01-10",
+        "fabricacao": "2023-01-10",
+        "lote": "SABLIQ422024",
+        "type": "Alimento"
+    },
+    {
+        "codigo": "TELEVISAO01",
+        "nome": "Televisão",
+        "preco": 700.00,
+        "garantiaMeses": 12,
+        "marca": "Samsung",
+        "especificacoesTecnicas": "43 Polegadas",
+        "type": "Eletrônico"
+    },
+    {
+        "codigo": "BLUSAMANGAL01",
+        "nome": "Blusa Manga Longa",
+        "preco": 45.00,
+        "tamanho": "M",
+        "cor": "Azul Marinho",
+        "material": "Algodão",
+        "lote": "BLUSAL432024",
+        "type": "Roupa"
+    },
+    {
+        "codigo": "AZEITEEXTRA01",
+        "nome": "Azeite Extra Virgem",
+        "preco": 15.00,
+        "validade": "2026-01-10",
+        "fabricacao": "2023-01-10",
+        "lote": "AZEXTRA442024",
+        "type": "Alimento"
+    },
+    {
+        "codigo": "LAVAROU01",
+        "nome": "Máquina de Lavar Roupa",
+        "preco": 900.00,
+        "garantiaMeses": 24,
+        "marca": "Brastemp",
+        "especificacoesTecnicas": "12 kg",
+        "type": "Eletrônico"
+    },
+    {
+        "codigo": "SHORTSJEANS02",
+        "nome": "Shorts Jeans",
+        "preco": 55.00,
+        "tamanho": "P",
+        "cor": "Jeans",
+        "material": "Algodão",
+        "lote": "SHJEANS452024",
+        "type": "Roupa"
+    },
+    {
+        "codigo": "LEITEINTEGRAL01",
+        "nome": "Leite Integral",
+        "preco": 3.50,
+        "validade": "2026-01-10",
+        "fabricacao": "2023-01-10",
+        "lote": "LINT462024",
+        "type": "Alimento"
+    },
+    {
+        "codigo": "SECADOR01",
+        "nome": "Secador de Cabelo",
+        "preco": 100.00,
+        "garantiaMeses": 6,
+        "marca": "Taiff",
+        "especificacoesTecnicas": "2000W",
+        "type": "Eletrônico"
+    },
+    {
+        "codigo": "CAMISABASICA01",
+        "nome": "Camisa Básica",
+        "preco": 25.00,
+        "tamanho": "M",
+        "cor": "Preto",
+        "material": "Algodão",
+        "lote": "CAMBAS472024",
+        "type": "Roupa"
+    },
+    {
+        "codigo": "BOLACHARECH01",
+        "nome": "Bolacha Recheada",
+        "preco": 2.00,
+        "validade": "2026-01-10",
+        "fabricacao": "2023-01-10",
+        "lote": "BOLACH482024",
+        "type": "Alimento"
+    },
+    {
+        "codigo": "FRITADEIRA01",
+        "nome": "Fritadeira Elétrica",
+        "preco": 250.00,
+        "garantiaMeses": 12,
+        "marca": "Mondial",
+        "especificacoesTecnicas": "Sem óleo",
+        "type": "Eletrônico"
+    },
+    {
+        "codigo": "MINISAI01",
+        "nome": "Mini Saia",
+        "preco": 50.00,
+        "tamanho": "P",
+        "cor": "Rosa",
+        "material": "Sarja",
+        "lote": "MINSAI492024",
+        "type": "Roupa"
+    },
+    {
+        "codigo": "SUCOLARANJA01",
+        "nome": "Suco de Laranja",
+        "preco": 5.00,
+        "validade": "2026-01-10",
+        "fabricacao": "2023-01-10",
+        "lote": "SULRANJA502024",
+        "type": "Alimento"
+    },
+    {
+        "codigo": "CHUVEIROE01",
+        "nome": "Chuveiro Elétrico",
+        "preco": 70.00,
+        "garantiaMeses": 3,
+        "marca": "Lorenzetti",
+        "especificacoesTecnicas": "220V",
+        "type": "Eletrônico"
+    },
+    {
+        "codigo": "CALCAPANTALONA01",
+        "nome": "Calça Pantalona",
+        "preco": 110.00,
+        "tamanho": "G",
+        "cor": "Bege",
+        "material": "Linho",
+        "lote": "PANTAL512024",
+        "type": "Roupa"
+    },
+    {
+        "codigo": "IOGURTE01",
+        "nome": "Iogurte",
+        "preco": 2.00,
+        "validade": "2026-01-10",
+        "fabricacao": "2023-01-10",
+        "lote": "IOGRT522024",
+        "type": "Alimento"
+    },
+    {
+        "codigo": "SOMAUTOMOTIVO01",
+        "nome": "Som Automotivo",
+        "preco": 350.00,
+        "garantiaMeses": 6,
+        "marca": "Pioneer",
+        "especificacoesTecnicas": "Bluetooth",
+        "type": "Eletrônico"
+    },
+    {
+        "codigo": "VESTIDOFESTA01",
+        "nome": "Vestido de Festa",
+        "preco": 120.00,
+        "tamanho": "M",
+        "cor": "Vermelho",
+        "material": "Seda",
+        "lote": "VFESTA532024",
+        "type": "Roupa"
+    },
+    {
+        "codigo": "CEREAL01",
+        "nome": "Cereal",
+        "preco": 6.00,
+        "validade": "2026-01-10",
+        "fabricacao": "2023-01-10",
+        "lote": "CEREAL542024",
+        "type": "Alimento"
+    },
+    {
+        "codigo": "CELULAR01",
+        "nome": "Celular",
+        "preco": 1500.00,
+        "garantiaMeses": 12,
+        "marca": "Xiaomi",
+        "especificacoesTecnicas": "128 GB",
+        "type": "Eletrônico"
+    }
+]
