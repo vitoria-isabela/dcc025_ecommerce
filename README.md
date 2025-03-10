@@ -226,6 +226,9 @@ A seguir, uma descrição de como os principais conceitos de Orientação a Obje
     *   `src/br/ufjf/dcc/dcc025/dcc025_ecommerce/repository/ProdutoRepositoryTest.java`: Testa a criação de um produto no repositório.
     *   `src/br/ufjf/dcc/dcc025/dcc025_ecommerce/repository/UserRepositoryTest.java`: Testa a criação de um usuário no repositório.
     *   `src/br/ufjf/dcc/dcc025/dcc025_ecommerce/repository/VendaRepositoryTest.java`: Testa a criação de uma venda no repositório.
+ 
+    ![image](https://github.com/user-attachments/assets/496e6a97-dd06-4018-a459-fc0a2d71ff36)
+
 *   **Benefícios:** Os testes unitários permitiram identificar e corrigir erros precocemente, garantindo que o sistema funcione conforme o esperado. Além disso, os testes servem como documentação do código, facilitando a compreensão e a manutenção do sistema.
 
 ### Decisões Arquiteturais, Padrões e Conceitos
