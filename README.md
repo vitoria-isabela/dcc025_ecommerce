@@ -40,7 +40,7 @@ Este projeto implementa um sistema de e-commerce como trabalho final da discipli
 *   *   **User Hitories (USs):** Estão no  arquivo _User History -Trabalho final - DCC025_ no diretório raiz desse repositório.
 *   **Arquivo de Build:** Arquivo `pom.xml` para gerenciamento e compilação do projeto com Maven.
 *   **Documentação:** Este arquivo `README.md` contendo detalhes sobre a arquitetura do sistema, estruturas de dados utilizadas, decisões de projeto, justificativas para o uso de conceitos de orientação a objetos, e instruções para compilação e execução.
-*   **Diagrama UML:** Um diagrama UML representando o relacionamento entre as classes do projeto (incluído ao final deste documento).
+*   **Diagrama UML:** Um diagrama UML representando o relacionamento entre as classes do projeto (incluído ao final deste documento e também o .png anexado ao diretório raíz desse repositório).
 *   **Executáveis:** Os arquivos `.json` usados para persistência e carregamento de dados.
 
 ## Requisitos
