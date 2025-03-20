@@ -37,9 +37,10 @@ Este projeto implementa um sistema de e-commerce como trabalho final da discipli
 ## Artefatos Entregues
 
 *   **Código-fonte:** Diretório `src` contendo todo o código-fonte do projeto (arquivos `.java`).
+*   *   **User Hitories (USs):** Estão no  arquivo _User History -Trabalho final - DCC025_ no diretório raiz desse repositório.
 *   **Arquivo de Build:** Arquivo `pom.xml` para gerenciamento e compilação do projeto com Maven.
 *   **Documentação:** Este arquivo `README.md` contendo detalhes sobre a arquitetura do sistema, estruturas de dados utilizadas, decisões de projeto, justificativas para o uso de conceitos de orientação a objetos, e instruções para compilação e execução.
-*   **Diagrama UML:** Um diagrama UML representando o relacionamento entre as classes do projeto (incluído ao final deste documento).
+*   **Diagrama UML:** Um diagrama UML representando o relacionamento entre as classes do projeto (incluído ao final deste documento e também o .png anexado ao diretório raíz desse repositório).
 *   **Executáveis:** Os arquivos `.json` usados para persistência e carregamento de dados.
 
 ## Requisitos
@@ -74,6 +75,8 @@ O projeto utiliza o Apache Maven como sistema de build. As instruções abaixo d
     Este comando irá executar a classe `Main` do seu projeto, iniciando o aplicativo.
 
 ### Windows
+
+> Eu compilei usando interface gráfica, através dos atalhos da IDE Netbeans.
 
 1.  **Abra o Prompt de Comando ou PowerShell:** Navegue até o diretório raiz do projeto (onde o arquivo `pom.xml` está localizado).
 
@@ -223,6 +226,9 @@ A seguir, uma descrição de como os principais conceitos de Orientação a Obje
     *   `src/br/ufjf/dcc/dcc025/dcc025_ecommerce/repository/ProdutoRepositoryTest.java`: Testa a criação de um produto no repositório.
     *   `src/br/ufjf/dcc/dcc025/dcc025_ecommerce/repository/UserRepositoryTest.java`: Testa a criação de um usuário no repositório.
     *   `src/br/ufjf/dcc/dcc025/dcc025_ecommerce/repository/VendaRepositoryTest.java`: Testa a criação de uma venda no repositório.
+ 
+    ![image](https://github.com/user-attachments/assets/496e6a97-dd06-4018-a459-fc0a2d71ff36)
+
 *   **Benefícios:** Os testes unitários permitiram identificar e corrigir erros precocemente, garantindo que o sistema funcione conforme o esperado. Além disso, os testes servem como documentação do código, facilitando a compreensão e a manutenção do sistema.
 
 ### Decisões Arquiteturais, Padrões e Conceitos
