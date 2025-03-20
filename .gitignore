@@ -49,8 +49,6 @@ write.lock
 # Ignore tree files
 *.tree
 
-*.xml
-
 *.lst
 
 *.txt

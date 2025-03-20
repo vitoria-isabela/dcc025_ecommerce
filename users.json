@@ -1,1 +1,86 @@
-[{"username":"joao","password":"novaSenha","name":"João Oliveira","email":"joao.o@email.com","role":"manager"}]
+[
+    {
+        "username": "joao",
+        "password": "123456",
+        "name": "João Oliveira",
+        "email": "joao.o@email.com",
+        "role": "manager"
+    },
+    {
+        "username": "maria.manager",
+        "password": "123456",
+        "name": "Maria Silva",
+        "email": "maria.s@email.com",
+        "role": "manager"
+    },
+    {
+        "username": "carlos.manager",
+        "password": "123456",
+        "name": "Carlos Pereira",
+        "email": "carlos.p@email.com",
+        "role": "manager"
+    },
+    {
+        "username": "ana.manager",
+        "password": "123456",
+        "name": "Ana Rodrigues",
+        "email": "ana.r@email.com",
+        "role": "manager"
+    },
+    {
+        "username": "pedro.seller",
+        "password": "123456",
+        "name": "Pedro Santos",
+        "email": "pedro.s@email.com",
+        "role": "seller"
+    },
+    {
+        "username": "sofia.seller",
+        "password": "123456",
+        "name": "Sofia Almeida",
+        "email": "sofia.a@email.com",
+        "role": "seller"
+    },
+    {
+        "username": "rui.seller",
+        "password": "123456",
+        "name": "Rui Costa",
+        "email": "rui.c@email.com",
+        "role": "seller"
+    },
+    {
+        "username": "luisa.seller",
+        "password": "123456",
+        "name": "Luisa Fernandes",
+        "email": "luisa.f@email.com",
+        "role": "seller"
+    },
+    {
+        "username": "miguel.client",
+        "password": "123456",
+        "name": "Miguel Gonçalves",
+        "email": "miguel.g@email.com",
+        "role": "client"
+    },
+    {
+        "username": "isabel.client",
+        "password": "123456",
+        "name": "Isabel Martins",
+        "email": "isabel.m@email.com",
+        "role": "client"
+    },
+    {
+        "username": "fernando.client",
+        "password": "123456",
+        "name": "Fernando Sousa",
+        "email": "fernando.s@email.com",
+        "role": "client"
+    },
+    {
+        "username": "carolina.client",
+        "password": "123456",
+        "name": "Carolina Tavares",
+        "email": "carolina.t@email.com",
+        "role": "client"
+    }
+]
